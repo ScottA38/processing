@@ -1,0 +1,14 @@
+#ignore specific files
+
+walker/
+examples/
+bouncing_ball/
+getting_started_example/
+libraries/
+modes/
+radial_gradient_PShape/
+sketch*
+static_3D_cube/
+templates/
+tools/
+walker/
