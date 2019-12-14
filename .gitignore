@@ -12,3 +12,5 @@ static_3D_cube/
 templates/
 tools/
 walker/
+*.java
+*.class
